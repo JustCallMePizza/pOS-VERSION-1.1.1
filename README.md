@@ -1,2 +1,2 @@
 # pizzaos
-PizzaOs is the future computer operating system. Right now it is in beta as a .exe file for windows 10.
+PizzaOs is the future computer operating system. Right now it is in beta! So Follow Along Our Long Journey
